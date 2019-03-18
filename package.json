@@ -1,0 +1,14 @@
+{
+  "name": "traversy-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Responsive portfolio webstie",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Aleksic Dusan",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
